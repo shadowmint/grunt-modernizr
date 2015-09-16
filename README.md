@@ -1,3 +1,7 @@
+### FORK
+
+This is a fork of https://github.com/Modernizr/grunt-modernizr to be used only until https://github.com/Modernizr/grunt-modernizr/pull/119 gets merged.
+
 # grunt-modernizr
 
 [![Build Status](https://travis-ci.org/Modernizr/grunt-modernizr.png?branch=master,develop)](https://travis-ci.org/Modernizr/grunt-modernizr)
