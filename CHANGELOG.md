@@ -1,11 +1,12 @@
 # Changelog
 
-## 0.6.0
+## 0.6.2
 
 ### Deprecated features
 - Removed support for Node 0.9
 
 ### Pull Requests
+- [PR #119](https://github.com/Modernizr/grunt-modernizr/pull/119): Fix for changes in remote modernizr urls.
 - [PR #68](https://github.com/Modernizr/grunt-modernizr/pull/68): Adds support for *.sass files
 - [PR #69](https://github.com/Modernizr/grunt-modernizr/pull/69): Adds support for cssclassprefix extensibility option
 - [PR #73](https://github.com/Modernizr/grunt-modernizr/pull/73): Retain License when compressing output
